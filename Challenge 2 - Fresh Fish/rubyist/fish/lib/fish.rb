@@ -1,5 +1,6 @@
 require "fish/version"
+require 'fish/market'
+require 'fish/market_chooser'
 
 module Fish
-  # Your code goes here...
 end
